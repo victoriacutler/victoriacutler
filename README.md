@@ -9,11 +9,11 @@
 - 💬 **Twitter:** [@VictoriaECutler](https://twitter.com/VictoriaECutler)
 - 📫 **How to reach me:** victoriacutler123@gmail.com
 
-###education
+### education
 - Master’s in Environmental Data Science | 2023 | Bren School at UCSB
 - Bachelor’s in Environmental Science | 2018 | Colorado College
 
-###experience
+### experience
 Pacific Gas & Electric Company (PG&E) | 2018 - 2022
 
 - Senior Strategic Analyst (Energy Efficiency)
