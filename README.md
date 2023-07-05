@@ -1,8 +1,8 @@
-<h1 align="center">Hi! I'm Victoria Cutler</h1>
+<h1 align="center">Hi there! I'm Victoria 👋🏼</h1>
 
 <br>
 
-### about me
+### About me
 - 😄 **Pronouns:** she/her
 - 👩🏻‍🎓 **Life status:** I just graduated in June 2023 with a Master's in Environmental Data Science from UCSB and I'm now looking for meaningful data science work that creates an equitable and positive environmental impact.
 - 🔭 **I’m currently working on:** A couple of different projects! Check out my [portfolio](https://victoriacutler.github.io/posts.html) for some interesting data science projects. PSA: I'm still working on getting everything up.
@@ -10,11 +10,11 @@
 - 💬 **Twitter:** [@VictoriaECutler](https://twitter.com/VictoriaECutler)
 - 📫 **How to reach me:** victoriacutler123@gmail.com
 
-### education
+### Education
 - Master’s in Environmental Data Science | 2023 | Bren School at UCSB
 - Bachelor’s in Environmental Science | 2018 | Colorado College
 
-### experience
+### Experience
 Pacific Gas & Electric Company (PG&E) | 2018 - 2022
 
 - Senior Strategic Analyst (Energy Efficiency)
