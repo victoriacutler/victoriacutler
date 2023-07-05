@@ -27,8 +27,7 @@ Pacific Gas & Electric Company (PG&E) | 2018 - 2022
 - Rotational Analyst (Energy Efficiency, Demand Response)
 
 ### Github Organization
-- Most of this stuff is related to my Master's program in Environmental Data Science.
-- Feel free to check anything and everything out!
+Most of this stuff is related to my Master's program in Environmental Data Science. Feel free to check anything and everything out!
 
 <!--
 **victoriacutler/victoriacutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
