@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi! I'm Victoria Cutler</h1>
+
+<br>
+
+**Pronouns:** *she/her* 
+
+**Personal website:** [victoriacutler.github.io](https://victoriacutler.github.io/)
+
+**Twitter:** [@VictoriaECutler](https://twitter.com/VictoriaECutler)
 
 <!--
 **victoriacutler/victoriacutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
